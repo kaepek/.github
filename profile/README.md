@@ -1,4 +1,4 @@
-![Banner](./profile/media/kaepek-banner3.png)
+![Banner](./media/kaepek-banner3.png)
 
 # Project description
 
